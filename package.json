@@ -1,0 +1,23 @@
+{
+  "name": "projeto1-reprograma",
+  "version": "1.0.0",
+  "description": "Contém o projeto da semana 5 da Reprograma. Trata-se de um sistema de gerenciamaneto de livros.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seven-7aline/projeto1-Reprograma.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seven-7aline/projeto1-Reprograma/issues"
+  },
+  "homepage": "https://github.com/seven-7aline/projeto1-Reprograma#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
